@@ -6,6 +6,7 @@ body {
     margin: 50px auto;
     border: 1px solid #ccc;
     padding: 20px;
+    background-color: #f16444;
   }
   input[type="text"], input[type="number"] {
     width: 100%;
@@ -34,8 +35,13 @@ body {
     margin-bottom: 20px;
   }
   #resumo {
-    background-color: #f0f0f0;
+    background-color: #f68c67;
     border: 1px solid #ccc;
     padding: 10px;
     margin-bottom: 20px;
+  }
+  img {
+
+    display: block;
+    margin: 0;
   }

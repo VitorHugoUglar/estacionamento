@@ -39,5 +39,6 @@ function limpar() {
 }
 
 function sair() {
+    alert("Obrigado por usar, nosso site de estacionamento!!")
     window.close(); // Fecha a janela do navegador (pode ser bloqueado por alguns navegadores)
 }
