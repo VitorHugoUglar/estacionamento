@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+  }
+  .container {
+    width: 400px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  input[type="text"], input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+  }
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 10px 5px;
+    width: 120px;
+  }
+  button:hover {
+    opacity: 0.8;
+  }
+  .banner {
+    background-color: #ff0000;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  #resumo {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
